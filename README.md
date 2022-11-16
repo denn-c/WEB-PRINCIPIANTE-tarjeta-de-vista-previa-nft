@@ -34,8 +34,8 @@ Los usuarios deben ser capaces de:
 
 ### Enlaces
 
-- URL de la solución: [https://github.com/denn-c/WEP-PRINCIPIANTE-tarjeta-de-vista-previa-nft](https://github.com/denn-c/WEP-PRINCIPIANTE-tarjeta-de-vista-previa-nft)
-- URL del sitio en vivo: [https://denn-c.github.io/WEP-PRINCIPIANTE-tarjeta-de-vista-previa-nft/](https://denn-c.github.io/WEP-PRINCIPIANTE-tarjeta-de-vista-previa-nft/)
+- URL de la solución: [https://github.com/denn-c/WEB-PRINCIPIANTE-tarjeta-de-vista-previa-nft](https://github.com/denn-c/WEB-PRINCIPIANTE-tarjeta-de-vista-previa-nft)
+- URL del sitio en vivo: [https://denn-c.github.io/WEB-PRINCIPIANTE-tarjeta-de-vista-previa-nft/](https://denn-c.github.io/WEB-PRINCIPIANTE-tarjeta-de-vista-previa-nft/)
 
 ## Mi proceso
 
